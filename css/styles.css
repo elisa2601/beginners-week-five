@@ -5,3 +5,12 @@ body {
   padding: 3rem 1.5rem;
   text-align: center;
 }
+.elisa-btn{
+  background-color: pink;
+}
+.elisa-btn:hover {
+ background-color:yellow;
+}
+.classe{
+  background-color: lightseagreen;
+}
