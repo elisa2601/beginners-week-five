@@ -1,3 +1,9 @@
 body{
     text-align: center;
-}
+    }
+    body {
+        padding-top: 5rem;
+      }
+    
+      .classe{
+        background-color: rgb(108, 165, 184);
