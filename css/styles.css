@@ -14,3 +14,7 @@ body {
 .classe{
   background-color: lightseagreen;
 }
+.second-row-home{
+  margin-top: 50px;
+  scroll-margin-bottom: 50px;
+}
